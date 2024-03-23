@@ -3,7 +3,7 @@ package buclesimple;
 /**
  * Ejemplo de bucle simple en Java.
  *
- * @author Luis Miguel Morales Sánchez
+ * @author Sergio Rueda González - Estela Fuentes Álvarez
  */
 public class BucleSimple {
 
