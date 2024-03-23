@@ -14,7 +14,7 @@ public class BucleSimple {
      * este ejemplo).
      */
     public static void main(String[] args) {
-        // a) Repetir el máximo, máximo-1 y máximo +1 veces el bucle:
+        // a) Repetir el máximo, máximo+1 y máximo -1 veces el bucle: (modificado)
         int max = 5;
 
         // Repetir el máximo veces el bucle:
